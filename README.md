@@ -1,1 +1,1 @@
-# terraform-aws-
+This project demonstrates the deployment of a Node.js application on Amazon Web Services (AWS) infrastructure using Terraform. The infrastructure setup includes configuring various network components such as Virtual Private Cloud (VPC), subnets, internet gateway, security groups, route tables, as well as orchestrating the application deployment using AWS Elastic Container Service (ECS), Application Load Balancer (ALB), Auto Scaling Group (ASG), SSL certificate, Route 53, and other necessary resources.
